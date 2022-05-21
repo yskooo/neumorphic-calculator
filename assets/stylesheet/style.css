@@ -10,11 +10,12 @@
     --primary-light: #fff;
     --secondary-light: #eee;
     --tertiary-dark: #808080;
+    --tertiary-white:#FFFDE4;
     --orange: #FFA500;
 }
 
 body {
-    background: var(--primary-light);
+    background: var(--tertiary-light);
     font-family: 'Montserrat', sans-serif;
 }
 
