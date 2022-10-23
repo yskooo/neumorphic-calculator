@@ -85,3 +85,7 @@ footer a {
     color: #333;
 }
 
+footer a:hover{
+    text-decoration: underline;
+}
+
